@@ -1,4 +1,7 @@
-# DTOK8S-MIGRATION
+# DOCKER TO K8S-MIGRATION
+
+## Kubernetes Architecture
+![Kubernetes Architecture](https://media.geeksforgeeks.org/wp-content/uploads/20190904034023/Docker2-1-1024x439.png)
 
 ## DOCKER TO K8S MIGRATION PROJECT STEPS
 
